@@ -40,6 +40,14 @@ env/
 .env.local
 *.lock
 
+# Node/TypeScript
+node_modules/
+coverage/
+.env*
+
+# App data
+data/*.csv
+
 # Spec Kit-specific files
 .genreleases/
 *.zip

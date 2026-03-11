@@ -1,0 +1,1 @@
+/speckit.plan Use React with TypeScript for the frontend, Node.js with Express for the API, and CSV for persistence. Follow REST conventions.
